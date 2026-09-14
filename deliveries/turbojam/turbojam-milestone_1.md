@@ -24,7 +24,7 @@ We declare that:
 - [x] we have completed **the Web3 Foundation KYC/KYB process**.
 - [x] we used **a clear and permissive open-source license**.
 - [x] we submitted **a clear Git history and public, credibly timestamped commits** | **code developed in private, with commit hashes placed, in a timely fashion, on a major public blockchain**.
-- [x] we used third party libraries for: **cryptographic primitives** (e.g. erasure-coding, Bandersnatch, Ed25519) | **codecs** (e.g. SCALE) | **networking** (e.g. QUIC).
+- [x] we used third party libraries for: **cryptographic primitives** (ark-vrf, ed25519-consensus, erasure-coding, reed-solomon-simd, libsodium, hash-library, gnutls) | **codecs** (boost::json) | **networking** (boost::asio, ngtcp2).
 - [ ] we provided **Gas, trie/DB, signature-verification, and availability (EC/DB) performance tests** to be run on standard hardware.
 - [ ] we viewed the following **JAM implementation code** before | during our implementation.
 - [x] we have not had private conversations with **other implementers**.
