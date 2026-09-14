@@ -61,7 +61,7 @@ https://github.com/davxy/jam-conformance
 | Number	| Deliverable	| Link	 | Notes |
 |---------|-------------|--------|-------|
 |1.	      |Source code | https://github.com/r2rationality/turbojam	   |    |
-|2.	      |Public Docker image id the fuzzing target | r2rationality/turbojam-fuzz:latest | |
+|2.	      |Public Docker image id the fuzzing target | ghcr.io/r2rationality/turbojam-fuzz:v0.2.9 | |
 |3.       |TurboJam Configuration for the W3F Fuzzer | https://github.com/davxy/jam-conformance/blob/main/scripts/targets.json | found under "turbojam" key |
 
 
